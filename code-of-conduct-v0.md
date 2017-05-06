@@ -1,51 +1,13 @@
-Title: Code of Conduct
-Date: 2014-09-08 12:00
-Category: pages
-Author: Elana Hashman
-Status: hidden
-Summary: Code of Conduct for WiCS activities
-
 Our Code of Conduct is our commitment to the community to provide a welcoming,
-safe space for all its participants.
+safe space for all its participants. All speakers, sponsors and volunteers at StarCon are required to agree with the following code of conduct. Organizers will enforce this code throughout the event and social media spaces.
 
-# Purpose #
+# Quick Version #
 
-A primary goal of the WiCS Undergraduate Committee is to be inclusive towards
-and supportive of women interested in computer science.
+StarCon is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants, speakers, or sponsors in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
-Additionally, we seek to include and support members of all underrepresented
-groups in the fields of technology and computing, with the most varied and
-diverse backgrounds possible. As such, we are committed to providing a
-friendly, safe and welcoming environment for all, regardless of gender, sexual
-orientation, ability, ethnicity, socioeconomic status, and religion (or lack
-thereof).
+# Long Version #
 
-We invite all those who participate in our events and who communicate with our
-community at large to help us create a safe and positive experiences for
-everyone involved.
-
-We've outlined a code of conduct to highlight our expectations for all
-individuals who participate in our community, as well as the steps to handle
-unacceptable behavior.
-
-# Expected Behavior #
-
-+ Participate in an authentic and active way. In doing so, you contribute to
-  the health and longevity of this community.
-+ Exercise consideration and respect in your speech and actions.
-+ Attempt collaboration before conflict.
-+ Refrain from demeaning, discriminatory, or harassing behavior and speech.
-+ Be mindful of your surroundings and of your fellow participants.
-
-If you notice a dangerous situation, someone in distress, or violations of this
-Code of Conduct, [contact the committee](mailto:wics-ugrad@lists.uwaterloo.ca).
-No situation is considered inconsequential. If you do not feel comfortable
-contacting the committee at large due to the nature of the incident, you may
-contact the [Women in Computer Science Undergraduate Committee
-Chair]({filename}/pages/exec.md) or the Chair of the at-large Women in Computer
-Science Committee, currently [Jo Atlee](mailto:jmatlee@uwaterloo.ca).
-
-# Unacceptable Behavior #
+## Unacceptable Behavior ##
 
 **Unacceptable behaviors include:** intimidating, harassing, abusive,
 discriminatory, derogatory or demeaning speech or actions by any participant in
@@ -60,7 +22,7 @@ presentation slides); deliberate intimidation, stalking or following; harassing
 photography or recording; sustained disruption of talks or other events;
 inappropriate physical contact, and unwelcome sexual attention.
 
-# Consequences of Unacceptable Behavior #
+## Consequences of Unacceptable Behavior ##
 
 Unacceptable behavior from any community member, including sponsors and those
 with decision-making authority, will not be tolerated.
@@ -69,39 +31,35 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community
 organizers may take any action they deem appropriate, up to and including a
-temporary ban or permanent expulsion from the community without warning (and
+temporary ban or permanent expulsion from the conference without warning (and
 without refund in the case of a paid event).
 
-# Experiencing Unacceptable Behavior #
+## Experiencing Unacceptable Behavior ##
 
 If you are subject to or witness unacceptable behavior, or have any other
-concerns, please notify an organizer as soon as possible (contact info below).
+concerns, please _______.
 
 Additionally, community organizers are available to help community members
 engage with local law enforcement or to otherwise help those experiencing
 unacceptable behavior feel safe. In the context of in-person events, organizers
 will also provide escorts as desired by the person experiencing distress.
 
-# Addressing Grievances #
+## Addressing Grievances ##
 
 If you feel you have been falsely or unfairly accused of violating this Code of
-Conduct, you should contact the at-large Women in Computer Science Committee
-Chair, currently [Jo Atlee](mailto:jmatlee@uwaterloo.ca), with a concise
+Conduct, you should contact ________ , with a concise
 description of your grievance.
 
-# Scope #
+## Scope ##
 
 We expect all community participants (participants, organizers, sponsors, and
 other guests) to abide by this Code of Conduct in all community
 venues&mdash;online and in-person&mdash;as well as in all one-on-one
 communications pertaining to community business.
 
-# Contact Information #
+## Contact Information ##
 
-WiCS Undergraduate Committee<br>
-<wics-ugrad@lists.uwaterloo.ca><br>
-MC 3013C<br>
-University of Waterloo
+
 
 # License Information and Attribution #
 
@@ -111,5 +69,4 @@ license](http://creativecommons.org/licenses/by-sa/3.0/), derived from the
 [Open Source Bridge Code of
 Conduct](http://opensourcebridge.org/about/code-of-conduct/).
 
-*Revision 1.1, adopted by the Women in Computer Science Undergraduate Committee
-on 22 January 2015.*
+*Version 1.0, adopted by StarCon on ________.*
